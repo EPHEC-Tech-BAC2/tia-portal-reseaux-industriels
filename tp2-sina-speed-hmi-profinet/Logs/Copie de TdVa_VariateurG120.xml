@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Copie de TdVa_VariateurG120.xml" projectName="C:\Users\HE304092\Desktop\Copie de TdVa_VariateurG120.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="5:40:03 PM">
+    <Message>Error found while loading file C:\Users\HE304092\Desktop\Copie de TdVa_VariateurG120.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>
